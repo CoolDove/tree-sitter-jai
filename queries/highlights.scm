@@ -11,6 +11,7 @@
 ] @keyword
 
 (string) @string
+(heredoc_body) @string
 
 (compiler_directive) @keyword.directive
 "#type" @keyword.directive
